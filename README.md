@@ -26,3 +26,10 @@ Ex: **go run .\hello.go**
 
 6 - Operadores
     - Operações matemáticas, de comparação e lógicas entre dois valores
+
+7 - Manipulação de strings - Parte 1
+    - Operações com strings
+
+8 - Manipulação de strings - Parte 2
+    - Operações com strings
+
