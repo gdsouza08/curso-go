@@ -33,3 +33,8 @@ Ex: **go run .\hello.go**
 8 - Manipulação de strings - Parte 2
     - Operações com strings
 
+9 - Arrays
+
+10 - Arrays com valores fixos e busca
+
+11- Arrays com operações matemáticas
