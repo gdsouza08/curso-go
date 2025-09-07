@@ -38,3 +38,7 @@ Ex: **go run .\hello.go**
 10 - Arrays com valores fixos e busca
 
 11- Arrays com operações matemáticas
+
+12 - slice
+
+13 - slice e subslice
