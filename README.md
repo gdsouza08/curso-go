@@ -42,3 +42,5 @@ Ex: **go run .\hello.go**
 12 - slice
 
 13 - slice e subslice
+
+14 - 
